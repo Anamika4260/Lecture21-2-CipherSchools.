@@ -1,0 +1,9 @@
+Be careful to differentiate between:
+
+Performance: How much time/memory/disk/etc. is used when a program is run. This depends on the machine, compiler, etc. as well as the code we write.
+Complexity: How do the resource requirements of a program or algorithm scale, i.e. what happens as the size of the problem being solved by the code gets larger.
+Note: Complexity affects performance but not vice-versa.
+
+Algorithm Analysis:
+Algorithm analysis is an important part of computational complexity
+theory, which provides theoretical estimation for the required resources of an algorithm to solve a specific computational problem. Analysis of algorithms is the determination of the amount of time and space resources required to execute it.
